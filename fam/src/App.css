@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+  background-image: url(https://chupgiare.com/wp-content/uploads/2021/08/tai-nguyen-background-dep-cho-be-2021-3.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  /* opacity: 0.5; */
+}
+
+
+.icon{
+  font-size: 80px;
+  background-color: transparent;
+  color: red;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.blockContent{
+  background: gray;
+  height: 30vh;
+  border-radius: 20px;
+  border: 3px solid #7b4425;
+}
+
+.nhietDo{
+  font-size: 30px;
+  padding: 5px;
+}
+
+.iconContent{
+  display: flex;
+  flex-direction: column;
+}
+
+.bellButton{
+  padding: 15px 20px;
+  border-radius: 40%;
+  border: 0px solid transparent;
+  cursor: pointer;
+  background-color: red;
+  color: #fff;
+}
+
+.iconBell{
+  font-size: 100px;
+  padding: 20px;
+  color: yellow;
+}
+
+.iconLight{
+  font-size: 100px;
+  padding: 20px;
+}
+
+.lightButton{
+  padding: 15px 30px;
+  border-radius: 20%;
+  border: 0px solid transparent;
+  cursor: pointer;
+  background-color: #7b4425;
+  color: #fff;
+  margin: 0 30px;
+}
