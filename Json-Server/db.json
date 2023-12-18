@@ -1,0 +1,18 @@
+{
+  "source1": [
+    {
+      "id": 1,
+      "title": "Nhiệt độ",
+      "value": "33.3 C",
+      "nameValue": "Chuông báo"
+    }
+  ],
+  "source2": [
+    {
+      "id": 2,
+      "title": "Độ ẩm",
+      "value": "70%",
+      "nameValue": "Đèn chiếu sáng"
+    }
+  ]
+}
